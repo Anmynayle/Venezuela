@@ -33,6 +33,7 @@
 .Card img{
   border-radius: 10%;
   width: 600px;
+
 }
 
 .Card__info{
@@ -40,9 +41,15 @@
   flex-direction: column;
   gap: 30px;
 }
+ul{
+  text-align: center;
+}
 ul li{
   list-style: none;
   margin-bottom: 5px;
   margin-top: 5px;
   font-size: 25px;
+}
+h1{
+  font-size: 50px;
 }
